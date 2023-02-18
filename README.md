@@ -17,7 +17,7 @@
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![lua](https://img.shields.io/badge/-lua-grey?style=for-the-badge&logo=lua&logoColor=white&labelColor=8E2DE2)
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![c](https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
